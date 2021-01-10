@@ -1,0 +1,74 @@
+body{
+    background-image:url("/Leno_paper/img/1\ \(8\).jpg");
+    background-size: 1369px ;    
+}
+/* start Nav bar*/
+.navbar-brand h1{
+    line-height:13.2px;
+    font-size: 3.5rem;
+    color: #ad1725;
+    margin-top: 10px;
+}
+.navbar-collapse {
+    font-size: 20px;
+    font-weight: 900;
+    color: rgb(231, 221, 221);
+}
+
+.nav-item :hover{
+       background-color:brown;
+}
+.dropdown-menu{
+    background-color: brown;
+    color: #fff;
+    
+}
+
+.dropdown-menu .dropdown-item{
+    font-weight: 700;
+    font-size: 22px;
+    padding: .39rem  .6rem;
+    min-width: 200px;
+    -webkit-transition: padding .5s ease;
+    -moz-transition: padding .5s ease;
+    -o-transition: padding .5s ease;
+    transition: padding .5s ease;
+}
+.dropdown-menu .dropdown-item:hover{
+background-color: brown;
+color: cornsilk;
+}
+.dropdown-item:focus, .dropdown-item:hover{
+    background-color: #E41B17;
+    color:#fff;
+    padding-left: 1.5rem;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0 0 0);
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color:#fff;
+}
+/* end Nav bar*/
+/* start sectio welcom*/
+.welcom_message .message{
+        background-color: rgba(0, 0, 0, 0.479);
+        bottom: 97px;
+        margin-top: 114px;
+        margin-left: 310px;
+        margin-bottom: 39px;
+        color: aliceblue;
+        width: 839px;
+        padding-bottom: 24px;
+        padding-top: 15px;
+    }
+/* end sectio welcom*/
+/*start social*/
+.socail{
+    margin-top: 250px;
+}
+.socail.fa-facebook{
+    margin-right: 3px;
+}
+/*end socail*/
