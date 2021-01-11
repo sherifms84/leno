@@ -1,5 +1,9 @@
 body{
-    background-image:url("https://github.com/sherifms84/leno/blob/master/img/18.jpg");
+<<<<<<< HEAD
+    background-image:url("G:/website/Leno-wallpaper/img/18.jpg");
+=======
+    background-image:url("css/18.jpg");
+>>>>>>> 1cf1b1f8b2d8bdcf7ae2d828eb43bcd621f4b9d2
     background-size: 1369px ;    
 }
 
@@ -56,8 +60,8 @@ color: cornsilk;
 .welcom_message .message{
         background-color: rgba(0, 0, 0, 0.479);
         bottom: 97px;
-        margin-top: 114px;
-        margin-left: 310px;
+        margin-top: 350px;
+        margin-left: 280px;
         margin-bottom: 39px;
         color: aliceblue;
         width: 839px;
